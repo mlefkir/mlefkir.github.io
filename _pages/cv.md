@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* 2022-2026 Ph.D in astrophysics, University of Leicester, Leicester, UK
+* 2022-2026 - Ph.D in astrophysics, University of Leicester, Leicester, UK
 * 2020-2022 - Master degree in Astrophysics, Université Toulouse III - Paul Sabatier - Toulouse, France
-* 2017-2020  - Undergraduate degree in Physics - Parcours Spécial, Université Toulouse III - Paul Sabatier - Toulouse, France
+* 2017-2020 - Undergraduate degree in Physics - Parcours Spécial, Université Toulouse III - Paul Sabatier - Toulouse, France
 
 Resarch experience
 ======
-* Master internship, Jan. - July 2022
+* Master internship - January-July 2022:
   * Institut de Recherche en Astrophysique et Planétologie (IRAP) - Toulouse, France
   * Nature of the short and long timescale X-ray spectral variability of the Seyfert Galaxy NGC 7582
   * Supervisors: Didier Barret and Elias Kammoun
@@ -27,7 +27,7 @@ Resarch experience
   * Nature of the short and long timescale X-ray spectral variability of the Seyfert Galaxy NGC 7582
   * Supervisors: Didier Barret and Elias Kammoun
 
-* Undergraduate internship 2020: Research Assistant
+* Undergraduate internship 2020:
   * INAF - OAS  Osservatorio di astrofisica e scienza dello spazio di Bologna - Bologna, Italy
   * X-ray spectral study of the ultra fast outflow in the nearby active galaxy PDS 456
   * Supervisor: Massimo Cappi
