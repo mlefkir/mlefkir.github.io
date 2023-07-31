@@ -36,7 +36,7 @@ Skills
 ======
 * Operating Systems: Ubuntu Linux, Debian, Gentoo, Microsoft Windows
 * Programming Languages:
-  * Python, C, Julia (learning), Bash
+  * Python
   * C
   * Julia (learning)
   * Bash
